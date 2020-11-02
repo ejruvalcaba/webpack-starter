@@ -11,4 +11,4 @@ npm install
 Y para contruir el build, recuerden:
 ```
 npm run build
-```
+```git
